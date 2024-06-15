@@ -120,5 +120,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para repo
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-
-Personalize o `README.md` conforme as particularidades do seu projeto. Este modelo oferece uma visão geral básica para ajudar outros desenvolvedores a entenderem e utilizarem sua API.
